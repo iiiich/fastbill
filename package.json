@@ -1,6 +1,6 @@
 {
   "name": "fastbill",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This module is an early implementation of some features of the fastbill-api.",
   "keywords": [
     "node",
@@ -17,7 +17,7 @@
   "homepage": "https://github.com/iiiich/fastbill",
   "repository": {
     "type": "git",
-    "url": "git://github.com/iiiich/fastbill.git"
+    "url": "https://github.com/iiiich/fastbill.git"
   },
   "main": "lib/fastbill.js",
   "dependencies": {},
@@ -32,10 +32,6 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/iiiich/fastbill.git"
   },
   "engines": {
     "node": ">=0.8.0",
