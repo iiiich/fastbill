@@ -1,4 +1,4 @@
-![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
+![image_squidhome@2x.png](http://konexmedia.com/logo.png)
 
 # fastbill
 
