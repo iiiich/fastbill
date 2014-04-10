@@ -1,0 +1,49 @@
+{
+  "name": "fastbill",
+  "version": "0.0.1",
+  "description": "This module is an early implementation of some features of the fastbill-api.",
+  "keywords": [
+    "node",
+    "js",
+    "fastbill",
+    "api"
+  ],
+  "bugs": "https://github.com/iiiich/fastbill/issues",
+  "author": {
+    "name": "Robert Boeing",
+    "email": "robert.boeing@konexmedia.com",
+    "url": "https://github.com/iiiich"
+  },
+  "homepage": "https://github.com/iiiich/fastbill",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iiiich/fastbill.git"
+  },
+  "main": "lib/fastbill.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-node-inspector": "~0.1.1",
+    "grunt-nodemon": "~0.1.1",
+    "grunt-concurrent": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-open": "~0.2.2",
+    "grunt-wait": "~0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iiiich/fastbill.git"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
