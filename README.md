@@ -14,7 +14,7 @@ Causing the very early dev-status, don't be angry, I'll improve this peace of co
 To install this adapter, run:
 
 ```sh
-$ npm fastbill
+$ npm install fastbill
 ```
 
 ### Usage
