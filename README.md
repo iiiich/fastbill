@@ -6,7 +6,7 @@ Provides easy access to `fastbill-api`
 
 This module is an early implementation of some features of the fastbill-api. Please let me know if you need some improvements.
 
-Causing the very early dev-status, don't be angry, I'll improve this peace of code in the next weeks
+Causing the very early dev-status, don't be angry, I'll improve this piece of code in the next weeks
 
 
 ### Installation
